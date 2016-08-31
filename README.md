@@ -1,3 +1,7 @@
-# My Awesome Book
+# LASKUVARJOHYPPYKOULUTTAJAN OPAS
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+SUOMEN ILMAILULIITTO RY LASKUVARJOTOIMIKUNTA Koulutus- ja turvallisuuskomitea
+
+13.5.2013
+
+
