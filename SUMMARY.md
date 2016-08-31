@@ -9,7 +9,7 @@
 * [KURSSIMATERIAALI](./Part_01/P1Ch03_Kurssimateriaali.md)
 * [PERUSTASON KOULUTUSMENETELMÄT](./Part_01/P1Ch04_Koulutusmenetelmat.md)
 * [ALKEISKURSSI: KAIKILLE MENETELMILLE YHTEISET OSUUDET](./Part_01/P1Ch05_Alkeiskurssi.md)
-* [YHMÄHYPPYTAITOJEN OPETTAMINEN JA EVALUOINTI](./Part_01/P1Ch06_Ryhmahyppyhtaitojen_opettaminen.md)
+* [RYHMÄHYPPYTAITOJEN OPETTAMINEN JA EVALUOINTI](./Part_01/P1Ch06_Ryhmahyppyhtaitojen_opettaminen.md)
 * [VARUSTEET](./Part_01/P1Ch07_Varusteet.md)
 * [VAPAAPUDOTUSKOULUTUSHYPYN TEKEMINEN](./Part_01/P1Ch08_Koulutushypyn_tekeminen.md)
 * [SUORITUKSEN SEURAAMISJA PALAUTTEEN ANTAMISMENETELMÄT](./Part_01/P1Ch09_Suoritusten_seuraaminen.md)
